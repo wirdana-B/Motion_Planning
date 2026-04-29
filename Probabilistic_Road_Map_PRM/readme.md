@@ -65,4 +65,4 @@ PRM adalah algoritma yang efektif untuk motion planning di ruang kompleks dengan
 ---
 
 ## 👨‍💻 Author
-[Nama Kamu]
+[wirdana]
